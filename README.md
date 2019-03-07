@@ -1,2 +1,2 @@
 # BBS
-The most simple Black Board System in PHP
+The most simple Bulletin Board System (BBS) in PHP
